@@ -1,0 +1,27 @@
+"""Absol Code"""
+
+{
+  "name": "Absol",
+  "uid": 359,
+  "abilities": ["Pressure", "Super Luck", "Justified" ]
+  "description": "",
+  "attack": 130,
+ " sp-attack": 75,
+  "catch-rate": 30,
+  "defense": 49,
+  "sp-defense": 60,
+  "hp": 65,
+  "speed": 75,
+  "total": 318,
+  "happiness": 35,
+  "ev_yield": "2 Attack",
+  "evolutions":
+  "species": "Disaster",
+  "exp": 174
+  "growth_rate": "ms",
+  "height": 1.19,
+  "weight": 47,
+  "mf_ratio": 50
+
+}
+
